@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+conexion_s3_privada.py
+.aws/
+*.pem
+*.key
+*.parquet
+.vscode/
